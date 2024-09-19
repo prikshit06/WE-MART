@@ -1,2 +1,2 @@
 # billing_system
-This is a supermarket billing system
+This project is a supermarket billing system that allows users to add items, set prices, and specify quantities, generating a final bill. The system is implemented using C++ and leverages the CGI (Common Gateway Interface) to interact with users. Users can input item details such as name, price, and quantity, and the system stores the information, calculates totals, and prints the final bill. The system runs on a local server and provides real-time bill updates, making it an efficient solution for managing supermarket transactions
